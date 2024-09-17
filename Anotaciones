@@ -1,0 +1,3 @@
+este proyecto spring basico, con la creacio de la base de datos, esta completada!
+ahora necesitare hacer los microservicios y para eso. lo hace en base a la copia de este proyecto pero modificandolo debido a que tiene que laburar por partes, como si fuese un servicio-cliente
+pero esto es a nivel json - usando postman y gateway!
